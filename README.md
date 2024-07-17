@@ -1,5 +1,6 @@
 Python for Data Science Demos
-Welcome to the Python for Data Science Demos repository! This repository is a collection of Python scripts and Jupyter Notebooks created as part of my journey through the "Python for Data Science 2024" course. It is designed to help aspiring data scientists, machine learning researchers, and engineers learn the basics and advanced techniques in Python programming, data manipulation, and data analysis.
+
+Welcome to the Python for Data Science Demos repository! This repository is a collection of Python scripts and Jupyter Notebooks. It is designed to help aspiring data scientists, machine learning researchers, and engineers learn the basics and advanced techniques in Python programming, data manipulation, and data analysis.
 
 Repository Contents
 Folders and Files:

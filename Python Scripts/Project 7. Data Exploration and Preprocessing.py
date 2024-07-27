@@ -28,5 +28,16 @@ print(data_cvs.dropna())
 # Replacing missing values with the string "NULL"
 print(data_cvs.fillna("NULL"))
 
+print(data_cvs)
 # Removing duplicate rows from the DataFrame
 print(data_cvs.drop_duplicates())
+
+print(data_cvs.iloc[10])
+
+data = pd.DataFrame({'A1': [1, 2, 3],
+                     'A2': [4, 5, 6],
+                     'A3': [7, 8, 9]},
+                    index=['X', 'Y', 'Z'])
+print(data)
+
+print(data.loc["X"])
